@@ -30,6 +30,6 @@ We train **EfficientNet** models on the processed datasets and provide **XAI-bas
 └── README.md
 
 ## Contributors
-Minji Kim
-Gayoung Kim
-Seun Kim
+- Minji Kim
+- Gayoung Kim
+- Seun Kim
