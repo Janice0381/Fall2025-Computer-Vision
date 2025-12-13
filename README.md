@@ -1,4 +1,3 @@
-# Fall2025-Computer-Vision
 ## Team Project: Applying computer vision methods to data
 
 # 🌿 Plant Disease Classification with EfficientNet and XAI  
