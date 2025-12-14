@@ -44,8 +44,8 @@ We train **EfficientNet-B1** models on the processed datasets and utilize **XAI 
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/YOUR_GITHUB_ID/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Janice0381/Fall2025-Computer-Vision.git
+cd Fall2025-Computer-Vision
 ```
 ### 2) Install dependencies (Python 3.8+ recommended)
 ```bash
