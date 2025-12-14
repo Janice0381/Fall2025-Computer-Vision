@@ -12,21 +12,21 @@ We train **EfficientNet** models on the processed datasets and provide **XAI-bas
 ---
 
 ## 📁 Project Structure
-├── data/
-│ ├── PlantVillage/
-│ └── PlantDoc/
+├── demo.ipynb
 ├── preprocessing/
 │ └── segmentation_final.ipynb/
-├── models/
-│ ├── efficientnet_train.py
-│ ├── efficientnet_eval.py
-│ └── xai/
-│ ├── gradcam.py
-│ └── visualization.py
-├── experiments/
-│ ├── training_logs/
-│ ├── results/
-│ └── xai_maps/
+├── checkpoints/
+│ ├── doc_model_best.pt
+│ └── village_model_best.pt
+├── samples/
+│ ├── Potato_Early_blight.JPG
+│ └── Tomato_leara_late_blight.jpg
+├── results/
+│ ├── PlantDoc-Result/
+│ |  └── Demo_Tomato_leaf_late_blight.jpg
+│ └── PlantVillage-Result/
+│    └── Demo_Potato_Early_blight.JPG
+├── requirements.txt
 └── README.md
 
 ## Contributors
